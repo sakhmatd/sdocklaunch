@@ -32,6 +32,13 @@ before using sdocklaunch.
 Note that you will have to run the procedure listed above to reinstall
 sdocklaunch after you make any changes to the configuration. 
 
+## Issues/TODO
+
+Some programs don't use typical icon names (PCManFM uses system-file-manager, for example).
+As of now, such programs will display a stock GTK icon. 
+
+A list of such exceptions could be built to grow over time and code added to use the correct icons.
+
 ## Contributing
 
 Contributions are welcome no matter who you are and where you come from.
